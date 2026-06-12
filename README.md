@@ -45,7 +45,7 @@ Provides a high-level summary of port operations and overall maritime traffic tr
 
 ### Executive Overview Dashboard
 
-![Executive Dashboard](screenshots/Executive_Dashboard.png)
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/e5b537bd-f206-44f4-8b39-0c56895b2334" />
 
 ---
 
@@ -80,8 +80,7 @@ Focuses on vessel movement patterns and maritime operations.
 
 ### Vessel Analysis Dashboard
 
-![Vessel Dashboard](screenshots/Vessel_Analysis_Dashboard.png)
-
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/503906da-5ebd-4b55-a267-96c865baf5e8" />
 ---
 
 ### 3. Cargo Throughput & Trade Analysis Dashboard
@@ -116,7 +115,7 @@ Analyzes cargo movement, trade activity, and throughput trends.
 
 ### Cargo Throughput & Trade Analysis Dashboard
 
-![Cargo Dashboard](screenshots/Cargo_Analysis_Dashboard.png)
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/0a94ae29-3134-41d8-ad1d-aeb71570972f" />
 
 ---
 
@@ -207,11 +206,3 @@ This repository contains only project documentation, dashboard screenshots, and 
 ## Conclusion
 
 The Port Traffic Analytics Dashboard demonstrates how Business Intelligence tools can transform large-scale maritime traffic data into actionable operational and strategic insights. By combining data modeling, DAX calculations, and interactive visualizations, the project provides a comprehensive view of vessel operations, cargo movement, trade activity, and infrastructure utilization across a seven-year period.
-
-
-
-
-
-<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/0a94ae29-3134-41d8-ad1d-aeb71570972f" />
-<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/503906da-5ebd-4b55-a267-96c865baf5e8" />
-<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/e5b537bd-f206-44f4-8b39-0c56895b2334" />
